@@ -6,7 +6,7 @@
   "author": "cologler",
   "author_email": "skyoflw@gmail.com",
   "url": "https://github.com/Cologler/grouping-decorator-python",
-  "license": "",
+  "license": "MIT License",
   "classifiers": [],
   "entry_points": {},
   "zip_safe": false,
